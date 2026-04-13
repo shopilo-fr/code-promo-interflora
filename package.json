@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-interflora",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Interflora depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-interflora",
+    "bon-de-reduction-interflora",
+    "coupon-interflora",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/interflora.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-interflora.git"
+  }
+}
